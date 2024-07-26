@@ -21,14 +21,14 @@ button {
   transition: 0.5s;
 }
 
-a {
-  text-decoration: none;
-}
-
 button:hover {
   background: rgba(195, 193, 193, 0.775);
   color: black;
   cursor: pointer;
+}
+
+a {
+  text-decoration: none;
 }
 
 body {}
